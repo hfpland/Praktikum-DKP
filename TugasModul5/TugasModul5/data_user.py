@@ -18,11 +18,11 @@ class data :
         self.history = {
             "haickalkelompok47@gmail.com":{
                 "peminjaman_buku":{"Fisika Dasar","Dasar Komputer dan Pemrograman"},
-                "tanggal_peminjaman" : "10-04-2020"
+                "tanggal_peminjaman" : "25-04-2020"
                 },
             "abilkelompok47@gmail.com":{
                 "peminjaman_buku":{"Kalkulus","Dasar Komputer dan Pemrograman","Konsep Jaringan Komputer"},
-                "tanggal_peminjaman" : "07-04-2020"
+                "tanggal_peminjaman" : "25-04-2020"
                 }
             }
 
