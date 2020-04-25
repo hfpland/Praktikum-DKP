@@ -8,7 +8,11 @@ class data :
                 "password"  : "12345",
                 "role"      : "superadmin"
             },
-
+            "abilkelompok47@gmail.com" : {
+                "email"     : "abilkelompok47@gmail.com",
+                "password"  : "12345",
+                "role"      : "user"
+            }
             
         }
         self.history = {
@@ -16,7 +20,10 @@ class data :
                 "peminjaman_buku":{"Fisika Dasar","Dasar Komputer dan Pemrograman"},
                 "tanggal_peminjaman" : "10-04-2020"
                 },
-            
+            "abilkelompok47@gmail.com":{
+                "peminjaman_buku":{"Kalkulus","Dasar Komputer dan Pemrograman","Konsep Jaringan Komputer"},
+                "tanggal_peminjaman" : "07-04-2020"
+                }
             }
 
     def cek_login (self) :
