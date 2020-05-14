@@ -1,0 +1,15 @@
+C:\Users\fathurohman\source\repos\Advice_Generator\Advice_Generator\bin\Debug\Advice_Generator.exe.config
+C:\Users\fathurohman\source\repos\Advice_Generator\Advice_Generator\bin\Debug\Advice_Generator.exe
+C:\Users\fathurohman\source\repos\Advice_Generator\Advice_Generator\bin\Debug\Advice_Generator.pdb
+C:\Users\fathurohman\source\repos\Advice_Generator\Advice_Generator\obj\Debug\Advice_Generator.csprojAssemblyReference.cache
+C:\Users\fathurohman\source\repos\Advice_Generator\Advice_Generator\obj\Debug\Advice_Generator.HalamanUtama.resources
+C:\Users\fathurohman\source\repos\Advice_Generator\Advice_Generator\obj\Debug\Advice_Generator.Properties.Resources.resources
+C:\Users\fathurohman\source\repos\Advice_Generator\Advice_Generator\obj\Debug\Advice_Generator.csproj.GenerateResource.cache
+C:\Users\fathurohman\source\repos\Advice_Generator\Advice_Generator\obj\Debug\Advice_Generator.csproj.CoreCompileInputs.cache
+C:\Users\fathurohman\source\repos\Advice_Generator\Advice_Generator\obj\Debug\Advice_Generator.exe
+C:\Users\fathurohman\source\repos\Advice_Generator\Advice_Generator\obj\Debug\Advice_Generator.pdb
+C:\Users\fathurohman\source\repos\Advice_Generator\Advice_Generator\obj\Debug\Advice_Generator.HalamanAdvice.resources
+C:\Users\fathurohman\source\repos\Advice_Generator\Advice_Generator\obj\Debug\Advice_Generator.HalamanHome.resources
+C:\Users\fathurohman\source\repos\Advice_Generator\Advice_Generator\obj\Debug\Advice_Generator.HalamanLove.resources
+C:\Users\fathurohman\source\repos\Advice_Generator\Advice_Generator\obj\Debug\Advice_Generator.HalamanNumber.resources
+C:\Users\fathurohman\source\repos\Advice_Generator\Advice_Generator\obj\Debug\Advice_Generator.HalamanZodiak.resources
